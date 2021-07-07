@@ -1,2 +1,2 @@
 # FirstRepo
-This is our first Repository
+This is a repository used for Git Advanced commands practice.
